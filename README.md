@@ -23,7 +23,7 @@ Software Engineer, PEGA Developer, Web Designer
 <img height="50" width="50" src="https://www.pega.com/sites/default/files/media/images/2021-10/pega-logo-vertical-positive-rgb-01.png"/>
 
 ## Global Certification
-<img height="75" width="75" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRah8K0ytEB7pceRAKFfQd6XQEBL9LhyrG_wA&s"/><img height="75" width="75" src="https://academyartifacts.s3.amazonaws.com/Images/Prod/PEGACPSSA88V1_Current.png"/>
+<img height="75" width="75" src="https://media.licdn.com/dms/image/C5622AQGk-CTbiof-PA/feedshare-shrink_2048_1536/0/1678690803150?e=2147483647&v=beta&t=pyuP1cMLi9CV6AvC5jSJESgVgFETY5bA0N_qtGR6jRQ"/><img height="75" width="75" src="https://academyartifacts.s3.amazonaws.com/Images/Prod/PEGACPSSA88V1_Current.png"/>
 
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
