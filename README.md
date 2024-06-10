@@ -29,4 +29,4 @@ Software Engineer, PEGA Developer, Web Designer
 ![LeetCode Stats](https://leetcard.jacoblin.cool/anuprakash?theme=dark&font=Marcellus&ext=contest)
 [![prakashK-24's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prakashK-24&bg_color=121112&color=e9f90b&line=faf5f9&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="2000">
