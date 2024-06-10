@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="2000">
 
 Software Engineer, PEGA Developer, Web Designer
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/multi-screen.gif">
 - 🔭 Here's my [portfolio](https://mailtoprakashdon.wixsite.com/prakashk24)                                                 
 - 🌱 I’m currently learning FULLSTACK DEVELOPEMNT
 - 👯 I’m looking to collaborate on ML/AI
@@ -20,18 +20,7 @@ Software Engineer, PEGA Developer, Web Designer
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> 
 
 ### I Know Automation 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pega Logo</title>
-</head>
-<body>
-    <h1>Pega Logo</h1>
-    <img width="50" height="50" src="https://www.pega.com/sites/default/files/styles/pega_logo/public/media/image/2021-05/logo.png" alt="Pega Logo"/>
-</body>
-</html>
+
 
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
