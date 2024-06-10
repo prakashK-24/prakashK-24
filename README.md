@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="2000">
 
 Software Engineer, PEGA Developer, Web Designer
-<img align="right" width="370" height="290" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
+<img align="right" width="450" height="450" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 - 🔭 Here's my [portfolio](https://mailtoprakashdon.wixsite.com/prakashk24)                                                 
 - 🌱 I’m currently learning FULLSTACK DEVELOPEMNT
 - 👯 I’m looking to collaborate on ML/AI
