@@ -1,6 +1,7 @@
 ## Hi there 👋 It's me Anuprakash
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="2000">
+
 <br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="2000">
 
 Software Engineer, PEGA Developer, Web Designer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
@@ -31,4 +32,5 @@ Software Engineer, PEGA Developer, Web Designer
 ![LeetCode Stats](https://leetcard.jacoblin.cool/anuprakash?theme=dark&font=Marcellus&ext=contest)
 [![prakashK-24's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prakashK-24&bg_color=121112&color=e9f90b&line=faf5f9&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="2000">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="2000">
+
