@@ -20,7 +20,7 @@ Software Engineer, PEGA Developer, Web Designer
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> 
 
 ### I Know Automation like 
-<img height="50" width="50" src="https://www.pega.com/sites/default/files/media/images/2021-10/pega-logo-vertical-positive-rgb-01.png"/>
+<img height="75" width="75" src="https://www.pega.com/sites/default/files/media/images/2021-10/pega-logo-vertical-positive-rgb-01.png"/>
 
 ## Global Certification
 <img height="100" width="100" src="https://academyartifacts.s3.amazonaws.com/Images/Prod/PEGACPSA88V1_Current.png"/><img height="100" width="100" src="https://academyartifacts.s3.amazonaws.com/Images/Prod/PEGACPSSA88V1_Current.png"/>
