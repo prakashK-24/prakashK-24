@@ -1,4 +1,6 @@
 ## Hi there 👋 It's me Anuprakash
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="2000">
 
 Software Engineer, PEGA Developer, Web Designer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
